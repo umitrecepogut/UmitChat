@@ -1,2 +1,2 @@
 # UmitChat
- Umit Chat App
+Basic Chat App with Node.JS
